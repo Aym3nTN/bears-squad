@@ -18,3 +18,5 @@ console.log(" <3 Youssef! Y in uppercase<3 ");
 function getUser(id){
   // display warning that says that this functionality will change in v2.0.0 very soon and it will require the use of email
 }
+
+// new line
