@@ -11,7 +11,7 @@ axios.get('https://catfact.ninja/fact')
     console.log(error);
   });
 
-console.log(" <3 youssef! <3 ");
+console.log(" <3 Youssef! Y in uppercase<3 ");
 
 
 // Retrieve user from database using his identifier -- v1.18.10
