@@ -12,3 +12,9 @@ axios.get('https://catfact.ninja/fact')
   });
 
 console.log(" <3 youssef! <3 ");
+
+
+// Retrieve user from database using his identifier -- v1.18.10
+function getUser(id){
+  // display warning that says that this functionality will change in v2.0.0 very soon and it will require the use of email
+}
